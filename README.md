@@ -43,7 +43,7 @@ Key `<KEY + BINDING>`: `<USAGE>`
 <br>
 <br>
 
-Key `H`: prints out this message
+Key `H`: prints out help message
 <br>
 Key `Delete`: Clear the console
 <br>
