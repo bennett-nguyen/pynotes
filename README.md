@@ -5,7 +5,8 @@
 pynotes is a computer program that turn your computer into a simple music instrument using keylogger!
 <br>
 Every key you pressed will be considered as a command and will instruct this program to do something.
-
+# License
+This program is licensed under GNU Lesser General Public License v3.0
 # Commands for playing notes
 Key `<KEY>`: `<MUSICAL-NOTE>`
 <br>
